@@ -16689,6 +16689,8 @@ Push-push type uSD socket. Schematic element and footprint production proven. Sp
 <part name="FID2" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="U1" library="SparkFun-Connectors" deviceset="USD-SOCKET" device="NEW"/>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="FID3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
+<part name="FID4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 </parts>
 <sheets>
 <sheet>
@@ -16703,6 +16705,8 @@ Push-push type uSD socket. Schematic element and footprint production proven. Sp
 <instance part="FID2" gate="G$1" x="241.3" y="25.4"/>
 <instance part="U1" gate="G$1" x="160.02" y="111.76"/>
 <instance part="GND1" gate="1" x="147.32" y="88.9"/>
+<instance part="FID3" gate="G$1" x="246.38" y="30.48"/>
+<instance part="FID4" gate="G$1" x="241.3" y="30.48"/>
 </instances>
 <busses>
 </busses>
