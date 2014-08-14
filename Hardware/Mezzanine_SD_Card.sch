@@ -16914,7 +16914,6 @@ Standard decoupling cap</description>
 <part name="SUPPLY1" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="SUPPLY3" library="SparkFun-Aesthetics" deviceset="1.8V" device=""/>
-<part name="GND5" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
 <part name="C2" library="SparkFun-Capacitors" deviceset="0.1UF-25V(+80/-20%)(0603)" device="" value="0.1uF"/>
 <part name="SUPPLY4" library="SparkFun-Aesthetics" deviceset="1.8V" device=""/>
@@ -16944,7 +16943,6 @@ Standard decoupling cap</description>
 <instance part="SUPPLY1" gate="G$1" x="139.7" y="132.08"/>
 <instance part="SUPPLY2" gate="G$1" x="160.02" y="132.08"/>
 <instance part="SUPPLY3" gate="G$1" x="104.14" y="132.08"/>
-<instance part="GND5" gate="1" x="104.14" y="88.9"/>
 <instance part="C1" gate="G$1" x="66.04" y="111.76"/>
 <instance part="C2" gate="G$1" x="198.12" y="109.22"/>
 <instance part="SUPPLY4" gate="G$1" x="66.04" y="132.08"/>
@@ -16979,12 +16977,6 @@ Standard decoupling cap</description>
 <wire x1="134.62" y1="111.76" x2="139.7" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="111.76" x2="139.7" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="U$1" gate="G$1" pin="OE"/>
-<wire x1="109.22" y1="111.76" x2="104.14" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="111.76" x2="104.14" y2="91.44" width="0.1524" layer="91"/>
-<pinref part="GND5" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
@@ -17115,6 +17107,10 @@ Standard decoupling cap</description>
 <pinref part="SUPPLY3" gate="G$1" pin="1.8V"/>
 <wire x1="109.22" y1="114.3" x2="104.14" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="114.3" x2="104.14" y2="132.08" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OE"/>
+<wire x1="109.22" y1="111.76" x2="104.14" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="111.76" x2="104.14" y2="114.3" width="0.1524" layer="91"/>
+<junction x="104.14" y="114.3"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
