@@ -16339,6 +16339,7 @@ Various fiducial points for machine vision alignment.</description>
 <text x="-2.54" y="-86.36" size="1.27" layer="96">&gt;VALUE</text>
 <text x="-2.54" y="33.02" size="1.27" layer="95" align="top-left">&gt;NAME</text>
 <pin name="GP84_SD_CLK_FB" x="43.18" y="-5.08" length="short" rot="R180"/>
+<pin name="DCIN" x="-5.08" y="20.32" length="short"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -16352,6 +16353,7 @@ Various fiducial points for machine vision alignment.</description>
 <connect gate="G$1" pin="1.8V" pad="12"/>
 <connect gate="G$1" pin="3.3V@1" pad="8"/>
 <connect gate="G$1" pin="3.3V@2" pad="10"/>
+<connect gate="G$1" pin="DCIN" pad="14"/>
 <connect gate="G$1" pin="FAULT" pad="19"/>
 <connect gate="G$1" pin="FW_RCVR" pad="69"/>
 <connect gate="G$1" pin="GND@1" pad="1"/>
@@ -16424,6 +16426,7 @@ Various fiducial points for machine vision alignment.</description>
 <connect gate="G$1" pin="1.8V" pad="12"/>
 <connect gate="G$1" pin="3.3V@1" pad="8"/>
 <connect gate="G$1" pin="3.3V@2" pad="10"/>
+<connect gate="G$1" pin="DCIN" pad="14"/>
 <connect gate="G$1" pin="FAULT" pad="19"/>
 <connect gate="G$1" pin="FW_RCVR" pad="69"/>
 <connect gate="G$1" pin="GND@1" pad="1"/>
@@ -16496,6 +16499,7 @@ Various fiducial points for machine vision alignment.</description>
 <connect gate="G$1" pin="1.8V" pad="12"/>
 <connect gate="G$1" pin="3.3V@1" pad="8"/>
 <connect gate="G$1" pin="3.3V@2" pad="10"/>
+<connect gate="G$1" pin="DCIN" pad="14"/>
 <connect gate="G$1" pin="FAULT" pad="19"/>
 <connect gate="G$1" pin="FW_RCVR" pad="69"/>
 <connect gate="G$1" pin="GND@1" pad="1"/>
@@ -18047,6 +18051,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="U3" gate="G$1" pin="OSC_CLK_OUT_0"/>
 <wire x1="220.98" y1="152.4" x2="223.52" y2="152.4" width="0.1524" layer="91"/>
 <label x="223.52" y="152.4" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="DCIN" class="0">
+<segment>
+<pinref part="U2" gate="G$1" pin="DCIN"/>
+<wire x1="25.4" y1="152.4" x2="22.86" y2="152.4" width="0.1524" layer="91"/>
+<label x="22.86" y="152.4" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="G$1" pin="DCIN"/>
+<wire x1="172.72" y1="152.4" x2="170.18" y2="152.4" width="0.1524" layer="91"/>
+<label x="170.18" y="152.4" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 </nets>
