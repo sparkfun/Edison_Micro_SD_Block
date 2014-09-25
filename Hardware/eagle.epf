@@ -27,14 +27,15 @@ UsedLibrary="C:/Users/casey.kuhns/Documents/GitHub/SparkFun-Eagle-Libraries/Spar
 UsedLibrary="C:/Users/casey.kuhns/Documents/GitHub/SparkFun-Eagle-Libraries/SparkFun-Sensors.lbr"
 UsedLibrary="C:/Users/casey.kuhns/Documents/GitHub/SFE_Testing_Eagle_Library/Testing.lbr"
 UsedLibrary="C:/Users/casey.kuhns/Documents/GitHub/SFE_Testing_Eagle_Library/USB-A-SMD-MALE-LOCKING_FP_TESTING.lbr"
+UsedLibrary="C:/Users/casey.kuhns/Documents/GitHub/Edison_Blocks/Sparkfun_Blocks_Template/Hardware/Edison.lbr"
 
 [Win_1]
 Type="Board Editor"
 Loc="652 321 1251 720"
-State=3
+State=2
 Number=1
-File="C:/Users/casey.kuhns/Documents/GitHub/EdisonMezzanine/Edison_Mezzanine_9DOF/Hardware/edison_mezzanine_9dof.brd"
-View="2.77989 -1.64053 23.4791 16.9252"
+File="C:/Users/casey.kuhns/Documents/GitHub/EdisonMezzanine/Edison_Mezzanine_Pi_Breakout/Hardware/edison_mezzanine_pi_breakout.brd"
+View="-8.42081 -16.1282 70.0791 62.2393"
 WireWidths=" 0 0.254 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -76,11 +77,11 @@ Layer=16
 
 [Win_2]
 Type="Schematic Editor"
-Loc="-1254 326 -655 725"
-State=1
+Loc="652 321 1251 720"
+State=2
 Number=2
-File="C:/Users/casey.kuhns/Documents/GitHub/EdisonMezzanine/Edison_Mezzanine_9DOF/Hardware/edison_mezzanine_9dof.sch"
-View="23.0613 6.12693 173.302 118.15"
+File="C:/Users/casey.kuhns/Documents/GitHub/EdisonMezzanine/Edison_Mezzanine_Pi_Breakout/Hardware/edison_mezzanine_pi_breakout.sch"
+View="33.7863 12.94 250.133 174.254"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -119,12 +120,12 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: 23.0613 6.12693 173.302 118.15"
+Views=" 1: 33.7863 12.94 250.133 174.254"
 Sheet=1
 
 [Win_3]
 Type="Control Panel"
-Loc="943 0 1440 1001"
+Loc="370 82 1692 869"
 State=2
 Number=0
 

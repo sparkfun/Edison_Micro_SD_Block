@@ -17260,6 +17260,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="119.38" y1="60.96" x2="114.3" y2="60.96" width="0.1524" layer="91"/>
 <junction x="119.38" y="60.96"/>
 <label x="114.3" y="60.96" size="1.778" layer="95" rot="R180" xref="yes"/>
+<junction x="119.38" y="63.5"/>
 </segment>
 </net>
 <net name="SCK_FB" class="0">
