@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.6.0">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -17142,7 +17142,7 @@ Standard decoupling cap</description>
 <sheet>
 <plain>
 <text x="167.64" y="10.16" size="2.54" layer="94">Casey Kuhns</text>
-<text x="238.76" y="7.62" size="2.54" layer="94">v10</text>
+<text x="238.76" y="7.62" size="2.54" layer="94">v20</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -17174,16 +17174,12 @@ Standard decoupling cap</description>
 <segment>
 <pinref part="U1" gate="G$1" pin="SHIELD@1"/>
 <wire x1="162.56" y1="96.52" x2="157.48" y2="96.52" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="SHIELD@4"/>
 <wire x1="157.48" y1="96.52" x2="157.48" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="91.44" x2="157.48" y2="88.9" width="0.1524" layer="91"/>
-<wire x1="157.48" y1="88.9" x2="162.56" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="SHIELD@3"/>
 <wire x1="162.56" y1="91.44" x2="157.48" y2="91.44" width="0.1524" layer="91"/>
 <junction x="157.48" y="91.44"/>
 <pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="157.48" y1="86.36" x2="157.48" y2="88.9" width="0.1524" layer="91"/>
-<junction x="157.48" y="88.9"/>
+<wire x1="157.48" y1="86.36" x2="157.48" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="GND"/>
 <wire x1="162.56" y1="106.68" x2="157.48" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="157.48" y1="106.68" x2="157.48" y2="96.52" width="0.1524" layer="91"/>
