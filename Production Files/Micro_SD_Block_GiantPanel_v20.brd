@@ -156,7 +156,7 @@
 <rectangle x1="28.956" y1="33.02" x2="37.338" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="28.956" y1="33.02" x2="37.338" y2="51.308" layer="41" rot="R180"/>
 <text x="36.068" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="36.957" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="36.957" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="36.83" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="29.6672" y1="30.0482" x2="30.6578" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="68.326" y1="49.53" x2="68.326" y2="8.636" width="0.1524" layer="20"/>
@@ -175,7 +175,7 @@
 <rectangle x1="59.944" y1="33.02" x2="68.326" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="59.944" y1="33.02" x2="68.326" y2="51.308" layer="41" rot="R180"/>
 <text x="67.056" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="67.945" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="67.945" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="67.818" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="60.6552" y1="30.0482" x2="61.6458" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="99.314" y1="49.53" x2="99.314" y2="8.636" width="0.1524" layer="20"/>
@@ -194,7 +194,7 @@
 <rectangle x1="90.932" y1="33.02" x2="99.314" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="90.932" y1="33.02" x2="99.314" y2="51.308" layer="41" rot="R180"/>
 <text x="98.044" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="98.933" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="98.933" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="98.806" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="91.6432" y1="30.0482" x2="92.6338" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="130.302" y1="49.53" x2="130.302" y2="8.636" width="0.1524" layer="20"/>
@@ -213,7 +213,7 @@
 <rectangle x1="121.92" y1="33.02" x2="130.302" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="121.92" y1="33.02" x2="130.302" y2="51.308" layer="41" rot="R180"/>
 <text x="129.032" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="129.921" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="129.921" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="129.794" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="122.6312" y1="30.0482" x2="123.6218" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="37.338" y1="94.488" x2="37.338" y2="53.594" width="0.1524" layer="20"/>
@@ -232,7 +232,7 @@
 <rectangle x1="28.956" y1="77.978" x2="37.338" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="28.956" y1="77.978" x2="37.338" y2="96.266" layer="41" rot="R180"/>
 <text x="36.068" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="36.957" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="36.957" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="36.83" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="29.6672" y1="75.0062" x2="30.6578" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="68.326" y1="94.488" x2="68.326" y2="53.594" width="0.1524" layer="20"/>
@@ -251,7 +251,7 @@
 <rectangle x1="59.944" y1="77.978" x2="68.326" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="59.944" y1="77.978" x2="68.326" y2="96.266" layer="41" rot="R180"/>
 <text x="67.056" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="67.945" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="67.945" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="67.818" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="60.6552" y1="75.0062" x2="61.6458" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="99.314" y1="94.488" x2="99.314" y2="53.594" width="0.1524" layer="20"/>
@@ -270,7 +270,7 @@
 <rectangle x1="90.932" y1="77.978" x2="99.314" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="90.932" y1="77.978" x2="99.314" y2="96.266" layer="41" rot="R180"/>
 <text x="98.044" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="98.933" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="98.933" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="98.806" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="91.6432" y1="75.0062" x2="92.6338" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="130.302" y1="94.488" x2="130.302" y2="53.594" width="0.1524" layer="20"/>
@@ -289,7 +289,7 @@
 <rectangle x1="121.92" y1="77.978" x2="130.302" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="121.92" y1="77.978" x2="130.302" y2="96.266" layer="41" rot="R180"/>
 <text x="129.032" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="129.921" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="129.921" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="129.794" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="122.6312" y1="75.0062" x2="123.6218" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="6.35" y1="0" x2="6.35" y2="79.248" width="0.2032" layer="20"/>
@@ -328,7 +328,7 @@
 <rectangle x1="166.624" y1="33.02" x2="175.006" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="166.624" y1="33.02" x2="175.006" y2="51.308" layer="41" rot="R180"/>
 <text x="173.736" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="174.625" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="174.625" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="174.498" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="167.3352" y1="30.0482" x2="168.3258" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="205.994" y1="49.53" x2="205.994" y2="8.636" width="0.1524" layer="20"/>
@@ -347,7 +347,7 @@
 <rectangle x1="197.612" y1="33.02" x2="205.994" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="197.612" y1="33.02" x2="205.994" y2="51.308" layer="41" rot="R180"/>
 <text x="204.724" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="205.613" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="205.613" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="205.486" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="198.3232" y1="30.0482" x2="199.3138" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="236.982" y1="49.53" x2="236.982" y2="8.636" width="0.1524" layer="20"/>
@@ -366,7 +366,7 @@
 <rectangle x1="228.6" y1="33.02" x2="236.982" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="228.6" y1="33.02" x2="236.982" y2="51.308" layer="41" rot="R180"/>
 <text x="235.712" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="236.601" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="236.601" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="236.474" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="229.3112" y1="30.0482" x2="230.3018" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="267.97" y1="49.53" x2="267.97" y2="8.636" width="0.1524" layer="20"/>
@@ -385,7 +385,7 @@
 <rectangle x1="259.588" y1="33.02" x2="267.97" y2="51.308" layer="42" rot="R180"/>
 <rectangle x1="259.588" y1="33.02" x2="267.97" y2="51.308" layer="41" rot="R180"/>
 <text x="266.7" y="13.208" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="267.589" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="267.589" y="10.668" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="267.462" y="48.006" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="260.2992" y1="30.0482" x2="261.2898" y2="30.0482" width="0.1524" layer="42"/>
 <wire x1="175.006" y1="94.488" x2="175.006" y2="53.594" width="0.1524" layer="20"/>
@@ -404,7 +404,7 @@
 <rectangle x1="166.624" y1="77.978" x2="175.006" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="166.624" y1="77.978" x2="175.006" y2="96.266" layer="41" rot="R180"/>
 <text x="173.736" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="174.625" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="174.625" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="174.498" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="167.3352" y1="75.0062" x2="168.3258" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="205.994" y1="94.488" x2="205.994" y2="53.594" width="0.1524" layer="20"/>
@@ -423,7 +423,7 @@
 <rectangle x1="197.612" y1="77.978" x2="205.994" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="197.612" y1="77.978" x2="205.994" y2="96.266" layer="41" rot="R180"/>
 <text x="204.724" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="205.613" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="205.613" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="205.486" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="198.3232" y1="75.0062" x2="199.3138" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="236.982" y1="94.488" x2="236.982" y2="53.594" width="0.1524" layer="20"/>
@@ -442,7 +442,7 @@
 <rectangle x1="228.6" y1="77.978" x2="236.982" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="228.6" y1="77.978" x2="236.982" y2="96.266" layer="41" rot="R180"/>
 <text x="235.712" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="236.601" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="236.601" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="236.474" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="229.3112" y1="75.0062" x2="230.3018" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="267.97" y1="94.488" x2="267.97" y2="53.594" width="0.1524" layer="20"/>
@@ -461,7 +461,7 @@
 <rectangle x1="259.588" y1="77.978" x2="267.97" y2="96.266" layer="42" rot="R180"/>
 <rectangle x1="259.588" y1="77.978" x2="267.97" y2="96.266" layer="41" rot="R180"/>
 <text x="266.7" y="58.166" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="267.589" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="267.589" y="55.626" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="267.462" y="92.964" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="260.2992" y1="75.0062" x2="261.2898" y2="75.0062" width="0.1524" layer="42"/>
 <wire x1="144.018" y1="0" x2="144.018" y2="79.248" width="0.2032" layer="20"/>
@@ -500,7 +500,7 @@
 <rectangle x1="28.956" y1="136.652" x2="37.338" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="28.956" y1="136.652" x2="37.338" y2="154.94" layer="41" rot="R180"/>
 <text x="36.068" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="36.957" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="36.957" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="36.83" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="29.6672" y1="133.6802" x2="30.6578" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="68.326" y1="153.162" x2="68.326" y2="112.268" width="0.1524" layer="20"/>
@@ -519,7 +519,7 @@
 <rectangle x1="59.944" y1="136.652" x2="68.326" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="59.944" y1="136.652" x2="68.326" y2="154.94" layer="41" rot="R180"/>
 <text x="67.056" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="67.945" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="67.945" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="67.818" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="60.6552" y1="133.6802" x2="61.6458" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="99.314" y1="153.162" x2="99.314" y2="112.268" width="0.1524" layer="20"/>
@@ -538,7 +538,7 @@
 <rectangle x1="90.932" y1="136.652" x2="99.314" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="90.932" y1="136.652" x2="99.314" y2="154.94" layer="41" rot="R180"/>
 <text x="98.044" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="98.933" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="98.933" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="98.806" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="91.6432" y1="133.6802" x2="92.6338" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="130.302" y1="153.162" x2="130.302" y2="112.268" width="0.1524" layer="20"/>
@@ -557,7 +557,7 @@
 <rectangle x1="121.92" y1="136.652" x2="130.302" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="121.92" y1="136.652" x2="130.302" y2="154.94" layer="41" rot="R180"/>
 <text x="129.032" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="129.921" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="129.921" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="129.794" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="122.6312" y1="133.6802" x2="123.6218" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="37.338" y1="198.12" x2="37.338" y2="157.226" width="0.1524" layer="20"/>
@@ -576,7 +576,7 @@
 <rectangle x1="28.956" y1="181.61" x2="37.338" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="28.956" y1="181.61" x2="37.338" y2="199.898" layer="41" rot="R180"/>
 <text x="36.068" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="36.957" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="36.957" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="36.83" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="29.6672" y1="178.6382" x2="30.6578" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="68.326" y1="198.12" x2="68.326" y2="157.226" width="0.1524" layer="20"/>
@@ -595,7 +595,7 @@
 <rectangle x1="59.944" y1="181.61" x2="68.326" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="59.944" y1="181.61" x2="68.326" y2="199.898" layer="41" rot="R180"/>
 <text x="67.056" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="67.945" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="67.945" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="67.818" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="60.6552" y1="178.6382" x2="61.6458" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="99.314" y1="198.12" x2="99.314" y2="157.226" width="0.1524" layer="20"/>
@@ -614,7 +614,7 @@
 <rectangle x1="90.932" y1="181.61" x2="99.314" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="90.932" y1="181.61" x2="99.314" y2="199.898" layer="41" rot="R180"/>
 <text x="98.044" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="98.933" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="98.933" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="98.806" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="91.6432" y1="178.6382" x2="92.6338" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="130.302" y1="198.12" x2="130.302" y2="157.226" width="0.1524" layer="20"/>
@@ -633,7 +633,7 @@
 <rectangle x1="121.92" y1="181.61" x2="130.302" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="121.92" y1="181.61" x2="130.302" y2="199.898" layer="41" rot="R180"/>
 <text x="129.032" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="129.921" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="129.921" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="129.794" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="122.6312" y1="178.6382" x2="123.6218" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="6.35" y1="103.632" x2="6.35" y2="182.88" width="0.2032" layer="20"/>
@@ -672,7 +672,7 @@
 <rectangle x1="166.624" y1="136.652" x2="175.006" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="166.624" y1="136.652" x2="175.006" y2="154.94" layer="41" rot="R180"/>
 <text x="173.736" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="174.625" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="174.625" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="174.498" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="167.3352" y1="133.6802" x2="168.3258" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="205.994" y1="153.162" x2="205.994" y2="112.268" width="0.1524" layer="20"/>
@@ -691,7 +691,7 @@
 <rectangle x1="197.612" y1="136.652" x2="205.994" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="197.612" y1="136.652" x2="205.994" y2="154.94" layer="41" rot="R180"/>
 <text x="204.724" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="205.613" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="205.613" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="205.486" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="198.3232" y1="133.6802" x2="199.3138" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="236.982" y1="153.162" x2="236.982" y2="112.268" width="0.1524" layer="20"/>
@@ -710,7 +710,7 @@
 <rectangle x1="228.6" y1="136.652" x2="236.982" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="228.6" y1="136.652" x2="236.982" y2="154.94" layer="41" rot="R180"/>
 <text x="235.712" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="236.601" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="236.601" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="236.474" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="229.3112" y1="133.6802" x2="230.3018" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="267.97" y1="153.162" x2="267.97" y2="112.268" width="0.1524" layer="20"/>
@@ -729,7 +729,7 @@
 <rectangle x1="259.588" y1="136.652" x2="267.97" y2="154.94" layer="42" rot="R180"/>
 <rectangle x1="259.588" y1="136.652" x2="267.97" y2="154.94" layer="41" rot="R180"/>
 <text x="266.7" y="116.84" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="267.589" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="267.589" y="114.3" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="267.462" y="151.638" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="260.2992" y1="133.6802" x2="261.2898" y2="133.6802" width="0.1524" layer="42"/>
 <wire x1="175.006" y1="198.12" x2="175.006" y2="157.226" width="0.1524" layer="20"/>
@@ -748,7 +748,7 @@
 <rectangle x1="166.624" y1="181.61" x2="175.006" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="166.624" y1="181.61" x2="175.006" y2="199.898" layer="41" rot="R180"/>
 <text x="173.736" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="174.625" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="174.625" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="174.498" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="167.3352" y1="178.6382" x2="168.3258" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="205.994" y1="198.12" x2="205.994" y2="157.226" width="0.1524" layer="20"/>
@@ -767,7 +767,7 @@
 <rectangle x1="197.612" y1="181.61" x2="205.994" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="197.612" y1="181.61" x2="205.994" y2="199.898" layer="41" rot="R180"/>
 <text x="204.724" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="205.613" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="205.613" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="205.486" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="198.3232" y1="178.6382" x2="199.3138" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="236.982" y1="198.12" x2="236.982" y2="157.226" width="0.1524" layer="20"/>
@@ -786,7 +786,7 @@
 <rectangle x1="228.6" y1="181.61" x2="236.982" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="228.6" y1="181.61" x2="236.982" y2="199.898" layer="41" rot="R180"/>
 <text x="235.712" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="236.601" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="236.601" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="236.474" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="229.3112" y1="178.6382" x2="230.3018" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="267.97" y1="198.12" x2="267.97" y2="157.226" width="0.1524" layer="20"/>
@@ -805,7 +805,7 @@
 <rectangle x1="259.588" y1="181.61" x2="267.97" y2="199.898" layer="42" rot="R180"/>
 <rectangle x1="259.588" y1="181.61" x2="267.97" y2="199.898" layer="41" rot="R180"/>
 <text x="266.7" y="161.798" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270" align="center">4xM2.0</text>
-<text x="267.589" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v10</text>
+<text x="267.589" y="159.258" size="1.016" layer="1" font="vector" ratio="15" rot="R90">v20</text>
 <text x="267.462" y="196.596" size="1.27" layer="22" font="vector" ratio="15" rot="SMR270">Micro SD Block</text>
 <wire x1="260.2992" y1="178.6382" x2="261.2898" y2="178.6382" width="0.1524" layer="42"/>
 <wire x1="144.018" y1="103.632" x2="144.018" y2="182.88" width="0.2032" layer="20"/>
@@ -3585,7 +3585,6 @@ design rules under a new name.</description>
 <contactref element="U3" pad="11"/>
 <contactref element="U3" pad="13"/>
 <contactref element="U1" pad="GND3"/>
-<contactref element="U1" pad="CD2"/>
 <contactref element="U1" pad="GND1"/>
 <contactref element="U4" pad="P$15"/>
 <contactref element="U1" pad="6"/>
@@ -4621,7 +4620,6 @@ design rules under a new name.</description>
 <contactref element="U6" pad="11"/>
 <contactref element="U6" pad="13"/>
 <contactref element="U7" pad="GND3"/>
-<contactref element="U7" pad="CD2"/>
 <contactref element="U7" pad="GND1"/>
 <contactref element="U8" pad="P$15"/>
 <contactref element="U7" pad="6"/>
@@ -5657,7 +5655,6 @@ design rules under a new name.</description>
 <contactref element="U10" pad="11"/>
 <contactref element="U10" pad="13"/>
 <contactref element="U11" pad="GND3"/>
-<contactref element="U11" pad="CD2"/>
 <contactref element="U11" pad="GND1"/>
 <contactref element="U12" pad="P$15"/>
 <contactref element="U11" pad="6"/>
@@ -6693,7 +6690,6 @@ design rules under a new name.</description>
 <contactref element="U14" pad="11"/>
 <contactref element="U14" pad="13"/>
 <contactref element="U15" pad="GND3"/>
-<contactref element="U15" pad="CD2"/>
 <contactref element="U15" pad="GND1"/>
 <contactref element="U16" pad="P$15"/>
 <contactref element="U15" pad="6"/>
@@ -7729,7 +7725,6 @@ design rules under a new name.</description>
 <contactref element="U18" pad="11"/>
 <contactref element="U18" pad="13"/>
 <contactref element="U19" pad="GND3"/>
-<contactref element="U19" pad="CD2"/>
 <contactref element="U19" pad="GND1"/>
 <contactref element="U20" pad="P$15"/>
 <contactref element="U19" pad="6"/>
@@ -8765,7 +8760,6 @@ design rules under a new name.</description>
 <contactref element="U22" pad="11"/>
 <contactref element="U22" pad="13"/>
 <contactref element="U23" pad="GND3"/>
-<contactref element="U23" pad="CD2"/>
 <contactref element="U23" pad="GND1"/>
 <contactref element="U24" pad="P$15"/>
 <contactref element="U23" pad="6"/>
@@ -9801,7 +9795,6 @@ design rules under a new name.</description>
 <contactref element="U26" pad="11"/>
 <contactref element="U26" pad="13"/>
 <contactref element="U27" pad="GND3"/>
-<contactref element="U27" pad="CD2"/>
 <contactref element="U27" pad="GND1"/>
 <contactref element="U28" pad="P$15"/>
 <contactref element="U27" pad="6"/>
@@ -10837,7 +10830,6 @@ design rules under a new name.</description>
 <contactref element="U30" pad="11"/>
 <contactref element="U30" pad="13"/>
 <contactref element="U31" pad="GND3"/>
-<contactref element="U31" pad="CD2"/>
 <contactref element="U31" pad="GND1"/>
 <contactref element="U32" pad="P$15"/>
 <contactref element="U31" pad="6"/>
@@ -11873,7 +11865,6 @@ design rules under a new name.</description>
 <contactref element="U34" pad="11"/>
 <contactref element="U34" pad="13"/>
 <contactref element="U35" pad="GND3"/>
-<contactref element="U35" pad="CD2"/>
 <contactref element="U35" pad="GND1"/>
 <contactref element="U36" pad="P$15"/>
 <contactref element="U35" pad="6"/>
@@ -12909,7 +12900,6 @@ design rules under a new name.</description>
 <contactref element="U38" pad="11"/>
 <contactref element="U38" pad="13"/>
 <contactref element="U39" pad="GND3"/>
-<contactref element="U39" pad="CD2"/>
 <contactref element="U39" pad="GND1"/>
 <contactref element="U40" pad="P$15"/>
 <contactref element="U39" pad="6"/>
@@ -13945,7 +13935,6 @@ design rules under a new name.</description>
 <contactref element="U42" pad="11"/>
 <contactref element="U42" pad="13"/>
 <contactref element="U43" pad="GND3"/>
-<contactref element="U43" pad="CD2"/>
 <contactref element="U43" pad="GND1"/>
 <contactref element="U44" pad="P$15"/>
 <contactref element="U43" pad="6"/>
@@ -14981,7 +14970,6 @@ design rules under a new name.</description>
 <contactref element="U46" pad="11"/>
 <contactref element="U46" pad="13"/>
 <contactref element="U47" pad="GND3"/>
-<contactref element="U47" pad="CD2"/>
 <contactref element="U47" pad="GND1"/>
 <contactref element="U48" pad="P$15"/>
 <contactref element="U47" pad="6"/>
@@ -16017,7 +16005,6 @@ design rules under a new name.</description>
 <contactref element="U50" pad="11"/>
 <contactref element="U50" pad="13"/>
 <contactref element="U51" pad="GND3"/>
-<contactref element="U51" pad="CD2"/>
 <contactref element="U51" pad="GND1"/>
 <contactref element="U52" pad="P$15"/>
 <contactref element="U51" pad="6"/>
@@ -17053,7 +17040,6 @@ design rules under a new name.</description>
 <contactref element="U54" pad="11"/>
 <contactref element="U54" pad="13"/>
 <contactref element="U55" pad="GND3"/>
-<contactref element="U55" pad="CD2"/>
 <contactref element="U55" pad="GND1"/>
 <contactref element="U56" pad="P$15"/>
 <contactref element="U55" pad="6"/>
@@ -18089,7 +18075,6 @@ design rules under a new name.</description>
 <contactref element="U58" pad="11"/>
 <contactref element="U58" pad="13"/>
 <contactref element="U59" pad="GND3"/>
-<contactref element="U59" pad="CD2"/>
 <contactref element="U59" pad="GND1"/>
 <contactref element="U60" pad="P$15"/>
 <contactref element="U59" pad="6"/>
@@ -19125,7 +19110,6 @@ design rules under a new name.</description>
 <contactref element="U62" pad="11"/>
 <contactref element="U62" pad="13"/>
 <contactref element="U63" pad="GND3"/>
-<contactref element="U63" pad="CD2"/>
 <contactref element="U63" pad="GND1"/>
 <contactref element="U64" pad="P$15"/>
 <contactref element="U63" pad="6"/>
@@ -20161,7 +20145,6 @@ design rules under a new name.</description>
 <contactref element="U66" pad="11"/>
 <contactref element="U66" pad="13"/>
 <contactref element="U67" pad="GND3"/>
-<contactref element="U67" pad="CD2"/>
 <contactref element="U67" pad="GND1"/>
 <contactref element="U68" pad="P$15"/>
 <contactref element="U67" pad="6"/>
@@ -21197,7 +21180,6 @@ design rules under a new name.</description>
 <contactref element="U70" pad="11"/>
 <contactref element="U70" pad="13"/>
 <contactref element="U71" pad="GND3"/>
-<contactref element="U71" pad="CD2"/>
 <contactref element="U71" pad="GND1"/>
 <contactref element="U72" pad="P$15"/>
 <contactref element="U71" pad="6"/>
@@ -22233,7 +22215,6 @@ design rules under a new name.</description>
 <contactref element="U74" pad="11"/>
 <contactref element="U74" pad="13"/>
 <contactref element="U75" pad="GND3"/>
-<contactref element="U75" pad="CD2"/>
 <contactref element="U75" pad="GND1"/>
 <contactref element="U76" pad="P$15"/>
 <contactref element="U75" pad="6"/>
@@ -23269,7 +23250,6 @@ design rules under a new name.</description>
 <contactref element="U78" pad="11"/>
 <contactref element="U78" pad="13"/>
 <contactref element="U79" pad="GND3"/>
-<contactref element="U79" pad="CD2"/>
 <contactref element="U79" pad="GND1"/>
 <contactref element="U80" pad="P$15"/>
 <contactref element="U79" pad="6"/>
@@ -24305,7 +24285,6 @@ design rules under a new name.</description>
 <contactref element="U82" pad="11"/>
 <contactref element="U82" pad="13"/>
 <contactref element="U83" pad="GND3"/>
-<contactref element="U83" pad="CD2"/>
 <contactref element="U83" pad="GND1"/>
 <contactref element="U84" pad="P$15"/>
 <contactref element="U83" pad="6"/>
@@ -25341,7 +25320,6 @@ design rules under a new name.</description>
 <contactref element="U86" pad="11"/>
 <contactref element="U86" pad="13"/>
 <contactref element="U87" pad="GND3"/>
-<contactref element="U87" pad="CD2"/>
 <contactref element="U87" pad="GND1"/>
 <contactref element="U88" pad="P$15"/>
 <contactref element="U87" pad="6"/>
@@ -26377,7 +26355,6 @@ design rules under a new name.</description>
 <contactref element="U90" pad="11"/>
 <contactref element="U90" pad="13"/>
 <contactref element="U91" pad="GND3"/>
-<contactref element="U91" pad="CD2"/>
 <contactref element="U91" pad="GND1"/>
 <contactref element="U92" pad="P$15"/>
 <contactref element="U91" pad="6"/>
@@ -27413,7 +27390,6 @@ design rules under a new name.</description>
 <contactref element="U94" pad="11"/>
 <contactref element="U94" pad="13"/>
 <contactref element="U95" pad="GND3"/>
-<contactref element="U95" pad="CD2"/>
 <contactref element="U95" pad="GND1"/>
 <contactref element="U96" pad="P$15"/>
 <contactref element="U95" pad="6"/>
@@ -28449,7 +28425,6 @@ design rules under a new name.</description>
 <contactref element="U98" pad="11"/>
 <contactref element="U98" pad="13"/>
 <contactref element="U99" pad="GND3"/>
-<contactref element="U99" pad="CD2"/>
 <contactref element="U99" pad="GND1"/>
 <contactref element="U100" pad="P$15"/>
 <contactref element="U99" pad="6"/>
@@ -29485,7 +29460,6 @@ design rules under a new name.</description>
 <contactref element="U102" pad="11"/>
 <contactref element="U102" pad="13"/>
 <contactref element="U103" pad="GND3"/>
-<contactref element="U103" pad="CD2"/>
 <contactref element="U103" pad="GND1"/>
 <contactref element="U104" pad="P$15"/>
 <contactref element="U103" pad="6"/>
@@ -30521,7 +30495,6 @@ design rules under a new name.</description>
 <contactref element="U106" pad="11"/>
 <contactref element="U106" pad="13"/>
 <contactref element="U107" pad="GND3"/>
-<contactref element="U107" pad="CD2"/>
 <contactref element="U107" pad="GND1"/>
 <contactref element="U108" pad="P$15"/>
 <contactref element="U107" pad="6"/>
@@ -31557,7 +31530,6 @@ design rules under a new name.</description>
 <contactref element="U110" pad="11"/>
 <contactref element="U110" pad="13"/>
 <contactref element="U111" pad="GND3"/>
-<contactref element="U111" pad="CD2"/>
 <contactref element="U111" pad="GND1"/>
 <contactref element="U112" pad="P$15"/>
 <contactref element="U111" pad="6"/>
@@ -32593,7 +32565,6 @@ design rules under a new name.</description>
 <contactref element="U114" pad="11"/>
 <contactref element="U114" pad="13"/>
 <contactref element="U115" pad="GND3"/>
-<contactref element="U115" pad="CD2"/>
 <contactref element="U115" pad="GND1"/>
 <contactref element="U116" pad="P$15"/>
 <contactref element="U115" pad="6"/>
@@ -33629,7 +33600,6 @@ design rules under a new name.</description>
 <contactref element="U118" pad="11"/>
 <contactref element="U118" pad="13"/>
 <contactref element="U119" pad="GND3"/>
-<contactref element="U119" pad="CD2"/>
 <contactref element="U119" pad="GND1"/>
 <contactref element="U120" pad="P$15"/>
 <contactref element="U119" pad="6"/>
@@ -34665,7 +34635,6 @@ design rules under a new name.</description>
 <contactref element="U122" pad="11"/>
 <contactref element="U122" pad="13"/>
 <contactref element="U123" pad="GND3"/>
-<contactref element="U123" pad="CD2"/>
 <contactref element="U123" pad="GND1"/>
 <contactref element="U124" pad="P$15"/>
 <contactref element="U123" pad="6"/>
@@ -35701,7 +35670,6 @@ design rules under a new name.</description>
 <contactref element="U126" pad="11"/>
 <contactref element="U126" pad="13"/>
 <contactref element="U127" pad="GND3"/>
-<contactref element="U127" pad="CD2"/>
 <contactref element="U127" pad="GND1"/>
 <contactref element="U128" pad="P$15"/>
 <contactref element="U127" pad="6"/>
